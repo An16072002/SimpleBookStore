@@ -3,7 +3,7 @@
 	xmlns="http://xmlns.jcp.org/xml/ns/javaee"
 	xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
 	id="WebApp_ID" version="4.0">
-	<display-name>BookStore</display-name>
+	<display-name>BookStoreSale</display-name>
 
 	<welcome-file-list>
 		<welcome-file>views/clientHomeView.jsp</welcome-file>
